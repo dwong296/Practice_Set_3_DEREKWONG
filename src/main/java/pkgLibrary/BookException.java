@@ -15,8 +15,4 @@ public class BookException extends Exception
 		this.b = b;
 	}
 	
-	public Book b()
-	{
-		return b;
-	}
 }
